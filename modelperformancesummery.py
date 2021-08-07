@@ -52,7 +52,7 @@ def filedownload(df):
 # Sidebar - Header
 st.sidebar.header('Input panel')
 st.sidebar.markdown("""
-[Example CSV file](https://raw.githubusercontent.com/dataprofessor/model_performance_app/main/Y_example.csv)
+[Example CSV file](https://raw.githubusercontent.com/naikshubham14/ModelPerformanceCalculator/Y_example.csv)
 """)
 
 # Sidebar panel - Upload input file
